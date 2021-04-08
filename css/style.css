@@ -204,7 +204,7 @@ button.w3view-cart:focus{
 .banner-agile{
 	background:url(../images/timebg.jpg) no-repeat 0px 0px;
 	background-size:cover;
-	min-height:580px;
+	min-height:460px;
 	background-position: center;
 }
 .sub-banner{
@@ -1790,7 +1790,7 @@ a.at-in{
 }
 .ring-in{
 	position:relative;
-	width:45%;
+	width:30%;
 	margin:10px auto;
 }
 .close1,.close2,.close3{
