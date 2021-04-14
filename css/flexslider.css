@@ -20,7 +20,7 @@
 }
 
 .flex-viewport {
-	max-height:365px;
+	max-height:none;
 	-webkit-transition: all 1s ease;
 	-moz-transition: all 1s ease;
 	-ms-transition: all 1s ease;
@@ -72,7 +72,7 @@ ul.flex-direction-nav {
 }
 @media(max-width:1280px){
 .flex-viewport {
-    max-height: 405px; 
+    max-height: none; 
 }
 .flex-control-nav {
     left: -15%;
@@ -80,7 +80,7 @@ ul.flex-direction-nav {
 }
 @media screen and (max-width: 1080px) {
 .flex-viewport {
-    max-height: 340px;
+    max-height: none;
 }
 }
 @media screen and (max-width: 991px) {
@@ -88,7 +88,7 @@ ul.flex-direction-nav {
     width: 21%;
 }
 .flex-viewport {
-    max-height: 327px;
+    max-height: none;
 }
 .flex-control-thumbs li:nth-child(2) {
     margin: 0.5em 0;
@@ -107,7 +107,7 @@ ul.flex-direction-nav {
 }
 @media screen and (max-width:480px) {
 .flex-viewport {
-    max-height: 260px;
+    max-height: none;
 }
 }
 @media screen and (max-width: 320px) {
